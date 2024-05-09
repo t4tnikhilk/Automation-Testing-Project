@@ -1,0 +1,29 @@
+<suite name="suite">
+	<test name="test1">
+		<classes>
+			<class name="Techies4Tech.T4T.Apply_Jobs_Test" />
+			<methods>
+				<include name="Verify_Apply_Jobs_with_AIcoveringletter()" />
+			</methods>
+		</classes>
+	</test>
+
+
+	<test name="test2">
+		<classes>
+			<class name="Techies4Tech.T4T.Apply_Jobs_Test" />
+			<methods>
+				<include name="Verify_Apply_Jobs_without_AIcoveringletter()" />
+			</methods>
+		</classes>
+	</test>
+	
+	<test name="test3">
+		<classes>
+			<class name="Techies4Tech.T4T.Apply_Jobs_Test" />
+			<methods>
+				<include name="Verify_Apply_Jobs_with_AIcoveringletter3()" />
+			</methods>
+		</classes>
+	</test>
+</suite>

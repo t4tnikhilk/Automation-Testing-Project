@@ -1,0 +1,7 @@
+<suite name="suite">
+	<test name="test1">
+		<classes>
+			<class name="Techies4Tech.T4T.Home_Page_Test" />
+		</classes>
+	</test>
+</suite>

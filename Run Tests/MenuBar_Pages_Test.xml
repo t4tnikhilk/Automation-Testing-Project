@@ -1,0 +1,7 @@
+<suite name="suite">
+	<test name="test1">
+		<classes>
+			<class name="Techies4Tech.Verify_Menu_Bar_Links_Test" />
+		</classes>
+	</test>
+</suite>

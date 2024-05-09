@@ -1,0 +1,19 @@
+<suite name="suite">
+	<test name="test1">
+		<classes>
+			<class name="Techies4Tech.T4T.AI_Interview_Test" />
+			<methods>
+				<include name="Verify_Schedule_and_JoinInterview()" />
+			</methods>
+		</classes>
+	</test>
+
+	<test name="test2">
+		<classes>
+			<class name="Techies4Tech.T4T.AI_Interview_Test" />
+			<methods>
+				<include name="Verify_CancelInterview()" />
+			</methods>
+		</classes>
+	</test>
+</suite>
